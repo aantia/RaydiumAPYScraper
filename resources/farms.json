@@ -261,8 +261,7 @@
     "name": "ALEPH-USDC",
     "reward": "RAY",
     "rewardB": "ALEPH",
-    isStake: false,
-e": false,
+    "isStake": false,
 
     "fusion": true,
     "legacy": false,
